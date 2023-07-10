@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"866ec3aa-4752-47a8-a644-bd5d94911276\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"BoolForTesting\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"866ec3aa-4752-47a8-a644-bd5d94911276\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"BoolForTesting\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"7f62d53c-ff0f-4ad0-b305-6f3ef9c0111d\",\r\n   
+    \"name\": \"telemetryproject\",\r\n    \"id\": \"7621d1a6-7239-47f4-b499-5360e2fffa42\",\r\n   
+    \"isDefault\": false,\r\n    \"createdAt\": \"2023-06-30T18:36:49Z\",\r\n   
+    \"updatedAt\": \"2023-06-30T18:36:49Z\"\r\n  },\r\n  {\r\n    \"projectId\":
+    \"7f62d53c-ff0f-4ad0-b305-6f3ef9c0111d\",\r\n    \"name\": \"production\",\r\n   
+    \"id\": \"ed439148-3c2b-4145-aae6-7e2481053f9c\",\r\n    \"isDefault\": true,\r\n   
+    \"createdAt\": \"2023-06-30T18:26:45Z\",\r\n    \"updatedAt\": \"2023-06-30T18:26:45Z\"\r\n 
+    }\r\n]"
